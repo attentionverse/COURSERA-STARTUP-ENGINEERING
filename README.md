@@ -5,3 +5,5 @@ Startup Engineering
 by [Balaji S. Srinivasan](https://www.coursera.org/instructor/balajis) & [Vijay S. Pande](https://www.coursera.org/instructor/vijaypande)
 
 https://www.coursera.org/course/startup
+
+This course is critical for our next phase.
